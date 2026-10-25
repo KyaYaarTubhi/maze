@@ -149,6 +149,3 @@ The code supplied for documentation identifies the main module as `lantern_maze_
 - Improve accessibility with optional high-contrast lighting and adjustable text size.
 - Package the game for Windows and other desktop platforms.
 
-## Repository
-
-The supplied screenshot shows the public GitHub repository `KyaYaarTubhi/maze` on the `main` branch. Add this README to the repository as `README.md` and commit it alongside the Python source file.
